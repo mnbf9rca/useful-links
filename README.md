@@ -3,3 +3,11 @@ Just links to things I might want to use later
 
 - [profile picture maker](https://pfpmaker.com/)
 - [system design primer](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+# techniques
+
+- communicating numbers: talk about value, number, method, payoff:
+  - value: what was the metric you're influencing
+  - number: by how much did you change it? Amount, percentage, or multiple.
+  - method: how did you do it?
+  - payoff: how does this make your work easier, better, etc.
