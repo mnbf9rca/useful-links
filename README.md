@@ -1,6 +1,8 @@
 # useful-links
 Just links to things I might want to use later
 
+# websites and repos
+
 - [profile picture maker](https://pfpmaker.com/)
 - [system design primer](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
@@ -11,3 +13,7 @@ Just links to things I might want to use later
   - number: by how much did you change it? Amount, percentage, or multiple.
   - method: how did you do it?
   - payoff: how does this make your work easier, better, etc.
+
+# libraries
+
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - automate parsing data from html and xml
