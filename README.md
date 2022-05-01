@@ -6,6 +6,7 @@ Just links to things I might want to use later
 - [profile picture maker](https://pfpmaker.com/)
 - [system design primer](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [SQL Murder Mystery](https://mystery.knightlab.com/) learn SQL through an online murder mystery game
+- [This X does not exist](https://thisxdoesnotexist.com) a directory of GANs for generating pictures of things eg photos people
 
 # techniques
 
