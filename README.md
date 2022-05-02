@@ -11,6 +11,7 @@ Just links to things I might want to use later
 - [SQL Murder Mystery](https://mystery.knightlab.com/) learn SQL through an online murder mystery game
 - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) simple examples of common software design patterns
 - [App Ideas](https://github.com/florinpop17/app-ideas) list of example projects which you can use to learn about different technologies or topics
+- [This X does not exist](https://thisxdoesnotexist.com) a directory of GANs for generating pictures of things eg photos people
 
 # techniques
 
