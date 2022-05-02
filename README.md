@@ -4,7 +4,7 @@ Just links to things I might want to use later
 # websites
 
 - [profile picture maker](https://pfpmaker.com/)
-- [This X does not exist](https://thisxdoesnotexist.com) a directory of GANs for generating pictures of things eg photos people  
+- [This X does not exist](https://thisxdoesnotexist.com) a directory of GANs for generating pictures of things eg photos people
 
 # repos
  
@@ -13,6 +13,9 @@ Just links to things I might want to use later
 - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) simple examples of common software design patterns
 - [App Ideas](https://github.com/florinpop17/app-ideas) list of example projects which you can use to learn about different technologies or topics
 
+# tools
+
+- [Scribe step by step](https://scribehow.com) record step by step instruction videos from your browser
 
 # techniques
 
