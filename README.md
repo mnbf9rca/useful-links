@@ -14,6 +14,7 @@ Just links to things I might want to use later
 - [App Ideas](https://github.com/florinpop17/app-ideas) list of example projects which you can use to learn about different technologies or topics
 - [Blankly](https://docs.blankly.finance) open source framework for trading model development and exchange connectivity
 - [PyCaret](https://pycaret.org) easily create machine learning models, data pipelines, and package your models for deployment (“mlops”)
+- [Diagrams](https://github.com/mingrammer/diagrams) “diagrams as code” - create cloud system architecture diagrams as code in python
 
 
 # tools
