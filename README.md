@@ -20,6 +20,7 @@ Just links to things I might want to use later
 # tools
 
 - [Scribe step by step](https://scribehow.com) record step by step instruction videos from your browser
+- [StatusCake](https://www.statuscake.com) website or api monitoring
 
 
 # techniques
