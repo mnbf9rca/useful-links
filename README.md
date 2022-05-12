@@ -34,3 +34,7 @@ Just links to things I might want to use later
 # libraries
 
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - automate parsing data from html and xml
+
+# MacOS commands
+
+- "unquarantining" downloaded executatbles: `sudo xattr -dr com.apple.quarantine <path>` (fix for `this software needs to be updated. contact the developer for more information`).
