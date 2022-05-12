@@ -21,6 +21,9 @@ Just links to things I might want to use later
 
 - [Scribe step by step](https://scribehow.com) record step by step instruction videos from your browser
 - [StatusCake](https://www.statuscake.com) website or api monitoring
+- [Oh My Zsh!](https://ohmyz.sh/) Zsh terminal configuration tool
+- [Warp!](https://www.warp.dev/) super fast terminal app
+- [Termius](https://termius.com/) SSH client with account and key syncing across devices including mobile
 
 
 # techniques
