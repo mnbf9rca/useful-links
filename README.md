@@ -24,6 +24,7 @@ Just links to things I might want to use later
 - [Oh My Zsh!](https://ohmyz.sh/) Zsh terminal configuration tool
 - [Warp!](https://www.warp.dev/) super fast terminal app
 - [Termius](https://termius.com/) SSH client with account and key syncing across devices including mobile
+- [healthchecks.io](https://healthchecks.io/) cron job monitoring
 
 
 # techniques
