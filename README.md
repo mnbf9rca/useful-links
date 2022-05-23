@@ -15,6 +15,7 @@ Just links to things I might want to use later
 - [Blankly](https://docs.blankly.finance) open source framework for trading model development and exchange connectivity
 - [PyCaret](https://pycaret.org) easily create machine learning models, data pipelines, and package your models for deployment (“mlops”)
 - [Diagrams](https://github.com/mingrammer/diagrams) “diagrams as code” - create cloud system architecture diagrams as code in python
+- [Cerberus](https://docs.python-cerberus.org/en/stable/) - easy JSON schema validation
 
 
 # tools
