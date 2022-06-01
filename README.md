@@ -15,14 +15,20 @@ Just links to things I might want to use later
 - [Blankly](https://docs.blankly.finance) open source framework for trading model development and exchange connectivity
 - [PyCaret](https://pycaret.org) easily create machine learning models, data pipelines, and package your models for deployment (“mlops”)
 - [Diagrams](https://github.com/mingrammer/diagrams) “diagrams as code” - create cloud system architecture diagrams as code in python
+- [Cerberus](https://docs.python-cerberus.org/en/stable/) - easy JSON schema validation
+- [web scraping open knowledge](https://github.com/reanalytics-databoutique/webscraping-open-project) - guidance on web scraping with python including working through anti-scrape features
 
 
 # tools
 
 - [Scribe step by step](https://scribehow.com) record step by step instruction videos from your browser
-- [StatusCake](https://www.statuscake.com) website or api monitoring
+- [StatusCake](https://www.statuscake.com) website or api monitoring 
+- [Oh My Zsh!](https://ohmyz.sh/) Zsh terminal configuration tool
+- [Warp!](https://www.warp.dev/) super fast terminal app
+- [Termius](https://termius.com/) SSH client with account and key syncing across devices including mobile
+- [healthchecks.io](https://healthchecks.io/) cron job monitoring
+- [Blogtrottr](https://blogtrottr.com/) convert RSS to email
 - [patternpad](https://patternpad.com) generate repeating geometric patterns for website or app branding, backgrounds.
-
 
 # techniques
 
@@ -35,3 +41,7 @@ Just links to things I might want to use later
 # libraries
 
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - automate parsing data from html and xml
+
+# MacOS commands
+
+- "unquarantining" downloaded executatbles: `sudo xattr -dr com.apple.quarantine <path>` (fix for `this software needs to be updated. contact the developer for more information`).
