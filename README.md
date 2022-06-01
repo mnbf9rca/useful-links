@@ -21,6 +21,7 @@ Just links to things I might want to use later
 
 - [Scribe step by step](https://scribehow.com) record step by step instruction videos from your browser
 - [StatusCake](https://www.statuscake.com) website or api monitoring
+- [patternpad](https://patternpad.com) generate repeating geometric patterns for website or app branding, backgrounds.
 
 
 # techniques
