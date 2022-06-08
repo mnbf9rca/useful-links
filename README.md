@@ -28,7 +28,8 @@ Just links to things I might want to use later
 - [Termius](https://termius.com/) SSH client with account and key syncing across devices including mobile
 - [healthchecks.io](https://healthchecks.io/) cron job monitoring
 - [Blogtrottr](https://blogtrottr.com/) convert RSS to email
-- [patternpad](https://patternpad.com) generate repeating geometric patterns for website or app branding, backgrounds.
+- [patternpad](https://patternpad.com) generate repeating geometric patterns for website or app branding, backgrounds
+- [JSON Visio](https://jsonvisio.com) visualise JSON as interactive node diagrams/trees
 
 # techniques
 
