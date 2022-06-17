@@ -30,6 +30,7 @@ Just links to things I might want to use later
 - [Blogtrottr](https://blogtrottr.com/) convert RSS to email
 - [patternpad](https://patternpad.com) generate repeating geometric patterns for website or app branding, backgrounds
 - [JSON Visio](https://jsonvisio.com) visualise JSON as interactive node diagrams/trees
+- [noTunes](https://github.com/tombonez/noTunes) blocks Apple Music from launching e.g. when you take off your headset
 
 # techniques
 
