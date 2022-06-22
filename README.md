@@ -48,3 +48,7 @@ Just links to things I might want to use later
 # MacOS commands
 
 - "unquarantining" downloaded executatbles: `sudo xattr -dr com.apple.quarantine <path>` (fix for `this software needs to be updated. contact the developer for more information`).
+
+# not coding related
+
+- [Cut List Optimizer](https://www.cutlistoptimizer.com) - works out the optimal cutting pattern to minimise waste when cutting sheet material like wood
