@@ -32,6 +32,7 @@ Just links to things I might want to use later
 - [JSON Visio](https://jsonvisio.com) visualise JSON as interactive node diagrams/trees
 - [noTunes](https://github.com/tombonez/noTunes) blocks Apple Music from launching e.g. when you take off your headset
 - [PowerLevel10k](https://github.com/romkatv/powerlevel10k) my preferred [Oh My Zsh!](https://ohmyz.sh/) theme, including links to the font
+- [Great Expectations](https://github.com/great-expectations/great_expectations) python-built data quality framework
 
 # techniques
 
