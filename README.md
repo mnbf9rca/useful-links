@@ -17,6 +17,7 @@ Just links to things I might want to use later
 - [Diagrams](https://github.com/mingrammer/diagrams) “diagrams as code” - create cloud system architecture diagrams as code in python
 - [Cerberus](https://docs.python-cerberus.org/en/stable/) - easy JSON schema validation
 - [web scraping open knowledge](https://github.com/reanalytics-databoutique/webscraping-open-project) - guidance on web scraping with python including working through anti-scrape features
+- [pydantic](https://pydantic-docs.helpmanual.io) python annotation-based typing and data validation
 
 
 # tools
