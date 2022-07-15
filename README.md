@@ -19,6 +19,7 @@ Just links to things I might want to use later
 - [Diagrams](https://github.com/mingrammer/diagrams) “diagrams as code” - create cloud system architecture diagrams as code in python
 - [Cerberus](https://docs.python-cerberus.org/en/stable/) - easy JSON schema validation
 - [web scraping open knowledge](https://github.com/reanalytics-databoutique/webscraping-open-project) - guidance on web scraping with python including working through anti-scrape features
+- [pydantic](https://pydantic-docs.helpmanual.io) python annotation-based typing and data validation
 
 
 # tools
@@ -33,7 +34,8 @@ Just links to things I might want to use later
 - [patternpad](https://patternpad.com) generate repeating geometric patterns for website or app branding, backgrounds
 - [JSON Visio](https://jsonvisio.com) visualise JSON as interactive node diagrams/trees
 - [noTunes](https://github.com/tombonez/noTunes) blocks Apple Music from launching e.g. when you take off your headset
-- [PowerLevel10k](https://github.com/romkatv/powerlevel10) my preferred [Oh My Zsh!](https://ohmyz.sh/) theme, including links to the font
+- [PowerLevel10k](https://github.com/romkatv/powerlevel10k) my preferred [Oh My Zsh!](https://ohmyz.sh/) theme, including links to the font
+- [Great Expectations](https://github.com/great-expectations/great_expectations) python-built data quality framework
 
 # techniques
 
