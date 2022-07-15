@@ -5,6 +5,8 @@ Just links to things I might want to use later
 
 - [profile picture maker](https://pfpmaker.com/)
 - [This X does not exist](https://thisxdoesnotexist.com) a directory of GANs for generating pictures of things eg photos people
+- [How Web Works](https://github.com/vasanthk/how-web-works) the anatomy of a web request
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) roadmaps to becoming a developer on various platforms
 
 # repos and libraries
  
