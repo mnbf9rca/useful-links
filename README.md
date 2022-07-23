@@ -7,6 +7,7 @@ Just links to things I might want to use later
 - [This X does not exist](https://thisxdoesnotexist.com) a directory of GANs for generating pictures of things eg photos people
 - [How Web Works](https://github.com/vasanthk/how-web-works) the anatomy of a web request
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) roadmaps to becoming a developer on various platforms
+- [Dribble](https://dribbble.com) lots of sample UI design ideas
 
 # repos and libraries
  
