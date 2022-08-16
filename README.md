@@ -21,7 +21,8 @@ Just links to things I might want to use later
 - [Cerberus](https://docs.python-cerberus.org/en/stable/) - easy JSON schema validation
 - [web scraping open knowledge](https://github.com/reanalytics-databoutique/webscraping-open-project) - guidance on web scraping with python including working through anti-scrape features
 - [pydantic](https://pydantic-docs.helpmanual.io) python annotation-based typing and data validation
-- [The Odin Project](https://www.theodinproject.com/) Learn JavaScript and React. Most people recommend to do the foundation only, then move on to Full Stack Open.
+- [The Odin Project](https://www.theodinproject.com/) Learn JavaScript and React. Most people recommend to do the foundation only, then move on to Full Stack Open
+- [Full Stack Open](https://fullstackopen.com/en/) University of Helsinki’s course teaching React, testing, CD/CD, back end development with Node. Very fun. Quite challenging at times. Requires JS skill.
 
 
 # tools
