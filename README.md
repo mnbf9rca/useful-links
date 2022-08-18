@@ -8,6 +8,7 @@ Just links to things I might want to use later
 - [How Web Works](https://github.com/vasanthk/how-web-works) the anatomy of a web request
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) roadmaps to becoming a developer on various platforms
 - [Dribble](https://dribbble.com) lots of sample UI design ideas
+- [Visualgo](https://visualgo.net/en) animated explanations of many different algorithms and data structures 
 
 # repos and libraries
  
