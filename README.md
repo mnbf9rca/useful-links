@@ -8,6 +8,7 @@ Just links to things I might want to use later
 - [How Web Works](https://github.com/vasanthk/how-web-works) the anatomy of a web request
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) roadmaps to becoming a developer on various platforms
 - [Dribble](https://dribbble.com) lots of sample UI design ideas
+- [Visualgo](https://visualgo.net/en) animated explanations of many different algorithms and data structures 
 
 # repos and libraries
  
@@ -39,6 +40,7 @@ Just links to things I might want to use later
 - [noTunes](https://github.com/tombonez/noTunes) blocks Apple Music from launching e.g. when you take off your headset
 - [PowerLevel10k](https://github.com/romkatv/powerlevel10k) my preferred [Oh My Zsh!](https://ohmyz.sh/) theme, including links to the font
 - [Great Expectations](https://github.com/great-expectations/great_expectations) python-built data quality framework
+- [get waves](https://getwaves.io) generate curvy shapes to make your site “look modern”
 
 # techniques
 
