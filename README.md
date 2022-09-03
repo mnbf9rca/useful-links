@@ -59,3 +59,4 @@ Just links to things I might want to use later
 # not coding related
 
 - [Cut List Optimizer](https://www.cutlistoptimizer.com) - works out the optimal cutting pattern to minimise waste when cutting sheet material like wood
+- [FetchRSS](https://fetchrss.com) create an RSS feed from any page or twitter feed
